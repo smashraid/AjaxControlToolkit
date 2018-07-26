@@ -1,0 +1,47 @@
+﻿body {
+}
+
+.AcordionHeader
+{
+	background-color: navy;
+	font-variant: small-caps;
+	font-style: italic;
+	color: white;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.AcordionHeaderSelected
+{
+	background-color: #4682b4;
+	font-variant: normal;
+	font-style: normal;
+	color: white;
+	font-size: 14pt;
+	font-weight: bold;
+}
+
+.AccordionContent
+{
+	background-color: #add8e6;
+}
+
+.PanelShadow
+{
+	background-color: #8fbc8b;
+	font-family: Arial;
+	color: white;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.Panel
+{
+	text-transform: uppercase;
+	background-color: #00bfff;
+	font-variant: normal;
+	font-style: normal;
+	font-family: Verdana;
+	font-size: 14pt;
+	font-weight: bold;
+}
